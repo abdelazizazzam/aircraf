@@ -5,8 +5,8 @@
         <field name="inherit_id" ref="base.view_company_form"/>
         <field name="arch" type="xml">
             <xpath expr="//sheet" position="inside">
-                <group string="POS Settings" attrs="{'invisible': True}">
-                    <span class="o_form_label">POS Discount Placeholder</span>
+                <group string="POS Settings" invisible="True">
+                    <label class="o_form_label" string="POS Discount Placeholder"/>
                 </group>
             </xpath>
         </field>
