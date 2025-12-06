@@ -1,0 +1,1 @@
+Fixed Discount Value (Sale + Invoice + POS) - Odoo 18\n
