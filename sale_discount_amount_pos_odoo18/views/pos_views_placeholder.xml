@@ -6,7 +6,7 @@
     <field name="arch" type="xml">
       <xpath expr="//form" position="inside">
         <group attrs="{'invisible': True}">
-          <label string="POS Discount Placeholder"/>
+          <label class="o_form_label" string="POS Discount Placeholder"/>
         </group>
       </xpath>
     </field>
